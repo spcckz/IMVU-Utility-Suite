@@ -62,10 +62,10 @@ IMVUClient
 
 Open the `patcher` folder.
 
-Double-click:
+Double-click this File:
 
 ```text
-patcher
+patch
 ```
 
 When prompted:
