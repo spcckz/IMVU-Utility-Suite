@@ -137,6 +137,7 @@ Enjoy improvements such as:
 
 # Special Thanks & Credits
 ImvuMafia's ImvuLite
-JSukar's IMVU TOOLKIT (Used for Emojis) - https://github.com/JSukar/IMVU-TOOLKIT/releases
 IgorMundstein for WinMemoryCleaner - Adapted directly into imvu and adjusted for its needs - "Low memory fix" - https://github.com/IgorMundstein/WinMemoryCleaner
+ClearURLS - Clears tracking garbage out of links you send, and links other users send - https://github.com/ClearURLs/Addon
+JSukar's IMVU TOOLKIT (Used for Emojis) - https://github.com/JSukar/IMVU-TOOLKIT/releases
 Coloris - Javascript color picker, adapted to our IMVU Theme customizer - https://github.com/mdbassit/Coloris
