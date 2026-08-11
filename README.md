@@ -134,3 +134,9 @@ Enjoy improvements such as:
 - Improved user controls
 - Quality-of-life enhancements
 - Additional client improvements
+
+# Special Thanks & Credits
+ImvuMafia's ImvuLite
+JSukar's IMVU TOOLKIT (Used for Emojis) - https://github.com/JSukar/IMVU-TOOLKIT/releases
+IgorMundstein for WinMemoryCleaner - Adapted directly into imvu and adjusted for its needs - "Low memory fix" - https://github.com/IgorMundstein/WinMemoryCleaner
+Coloris - Javascript color picker, adapted to our IMVU Theme customizer - https://github.com/mdbassit/Coloris
